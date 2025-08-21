@@ -1,0 +1,136 @@
+Bill of Lading: BOL113266848
+Business Partner: ECO-ENERGY LLC
+Created At: 2025-06-06 13:07:19
+Created By: privileged
+Assignment Code: 01
+Buy/Sell Reason: 10 – Standard Trade
+Expiration Date: 2025-06-06
+Trading Partner Bill of Lading: 474
+Transaction Status: 05 – Pending
+Transaction Type: 05 – Sell
+External Transaction Number: 113266848
+Fuel: 3 – Cellulosic Biofuel
+Fuel Quantity: 5698.000
+Gallon Price: 1.20
+Impact: I – Increase
+Modified At: 2025-06-06 13:07:19
+Modified By: privileged
+Object Category: P – PTD
+Object Type: E – EMTS
+Object ID: 94000
+Object Status: Created
+Organization ID: 9093
+PTD Number: PTD113266848
+QAP Code: 10 – Q-RIN
+Regulation: RFS2 – Renewable Fuel Standard
+Regulation Quantity: 5698.000
+RIN Price: 1.20
+RIN Year: 2025
+Root GUID: 0c9c6110-3899-42c4-83d1-8288ce885cbe
+Scenario: RFS2_EMTS – EPA Moderated System
+Trade Source: Received
+Transaction Category: PUR – Purchase
+Transaction Partner Org ID: 474
+Transaction Type: BUY – RFS2 purchase
+Transfer Compliance Year: 2025
+Transfer Date: 2025-06-06
+Transfer Quarter: 2
+
+
+
+
+
+
+{
+      "attachedRINIndicator": "2",
+      "billOfLading": "BOL113266865124",
+      "businessPartnerDesc": "DK Trading & Supply",
+      "cancelledUser": null,
+      "createdAt": "2025-06-16T10:12:19.395Z",
+      "createdBy": "privileged",
+      "emtsActionOutbound": "01",
+      "emtsAssignmentCode": "2",
+      "emtsAssignmentCodeDesc": "Separated per 40 CFR 80.1429",
+      "emtsBatchNumberText": null,
+      "emtsBuyOrSellReasonCode": "10",
+      "emtsBuyOrSellReasonCodeDesc": "Standard Trade",
+      "emtsExpirationDate": null,
+      "emtsTradingPartnerBillOfLading": "1840",
+      "emtsTradingPartnerInvoice": null,
+      "emtsTradingPartnerPtd": null,
+      "emtsTransactionStatusCode": "05",
+      "emtsTransactionStatusCodeDesc": "Pending",
+      "emtsTransactionTypeCode": "05",
+      "emtsTransactionTypeCodeDesc": "Sell",
+      "emtsTransmissionError": null,
+      "emtsTransmissionStatus": null,
+      "extTransactionNumber": "113266865124",
+      "externalComments": null,
+      "externalObjectGUID": "ba38cbcb-7011-4083-b25f-3a9c2a58c55e",
+      "fuelCode": "3",
+      "fuelCodeDesc": "Cellulosic Biofuel",
+      "fuelQuantity": null,
+      "fuelUnitOfMeasurement": null,
+      "gallonPriceAmount": "1.00",
+      "gallonPriceCurrency": null,
+      "generateFacilityId": null,
+      "generateOrganizationId": null,
+      "impact": "D",
+      "impactDesc": "Decrease",
+      "internalComments": null,
+      "invoice": "113266865124",
+      "matchGroupId": null,
+      "matchedExtTransactionNumber": null,
+      "modifiedAt": "2025-06-16T10:12:19.289Z",
+      "modifiedBy": "privileged",
+      "objectCategory": "P",
+      "objectCategoryDesc": "PTD",
+      "objectId": 94031,
+      "objectStatusDesc": "Created",
+      "objectType": "E",
+      "objectTypeDesc": "EMTS",
+      "organizationId": "9093",
+      "processingStatus": "01",
+      "processingStatusDesc": null,
+      "ptdNumber": "PTD113266865124",
+      "qapCode": "10",
+      "qapCodeDesc": "Q-RIN",
+      "reasonCodeDesc": null,
+      "regulationCategory": "RFS2",
+      "regulationCategoryDesc": "Renewable Fuel Standard",
+      "regulationComments": null,
+      "regulationQuantity": "1500.000",
+      "regulationType": "RFS2",
+      "regulationTypeDesc": "RFS2 regulation",
+      "regulationUnitOfMeasurement": null,
+      "rinPriceAmount": "1.00",
+      "rinPriceCurrency": null,
+      "rinYear": "2025",
+      "rootGUID": "02a0f767-a6dd-4675-93b4-6b924759698c",
+      "subObjectScenario": "RFS2_EMTS",
+      "subObjectScenarioDesc": "EPA Moderated System",
+      "submissionComplianceYear": null,
+      "submissionDate": null,
+      "submissionIdentifier": null,
+      "submissionMonth": null,
+      "submissionQuarter": null,
+      "tradeSource": "Initiated",
+      "transactionCategory": "SAL",
+      "transactionCategoryDesc": "Sale",
+      "transactionPartnerOrgId": "1840",
+      "transactionType": null,
+      "transactionTypeDesc": null,
+      "transferComplianceYear": "2025",
+      "transferDate": "2025-06-01",
+      "transferMonth": "06",
+      "transferQuarter": "2"
+    },
+
+
+
+update the bill of lading BL12345 with BL123456
+
+
+delete the bill of lading BL123456
+
+generate report breifly based on table Customer

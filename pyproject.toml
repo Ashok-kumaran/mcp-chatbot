@@ -1,0 +1,22 @@
+[project]
+name = "SIERRA_MCP"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncio-mqtt>=0.13.0",
+    "colorlog>=6.7.0",
+    "fastapi>=0.115.13",
+    "fastmcp>=0.1.0",
+    "generative-ai-hub-sdk[all]>=4.12.4",
+    "hana-ml>=2.25.25062301",
+    "hdbcli>=2.19.0",
+    "langchain>=0.3.26",
+    "langchain-mcp-adapters>=0.1.7",
+    "mcp>=1.0.0",
+    "pandas>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "rich>=13.0.0",
+    "uvicorn>=0.34.3",
+]

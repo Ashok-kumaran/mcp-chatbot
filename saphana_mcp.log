@@ -1,0 +1,252 @@
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Initializing server 'SAPHANA_DB'
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-08-12 17:37:41,929 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-08-12 17:37:46,117 - __main__ - DEBUG - Loaded 135 valid tables.
+2025-08-12 17:37:46,876 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-12 17:37:46,876 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-12 17:37:46,912 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-08-12 17:37:46,912 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD8E76D0>
+2025-08-12 17:37:46,912 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-12 17:37:46,912 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-08-12 17:37:46,912 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-12 17:37:55,269 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD32D150>
+2025-08-12 17:37:55,279 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-12 17:37:55,279 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-12 17:37:55,538 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-12 17:39:30,509 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD959A50>
+2025-08-12 17:39:30,509 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-12 17:39:30,509 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-12 17:39:31,515 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-12 18:40:22,037 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD156250>
+2025-08-12 18:40:22,048 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-12 18:40:22,048 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-12 18:40:26,254 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-12 19:45:35,025 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD29B4D0>
+2025-08-12 19:45:35,031 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-12 19:45:35,031 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-12 19:45:40,241 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-12 19:46:39,332 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000260DD91B710>
+2025-08-12 19:46:39,344 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-12 19:46:39,344 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-12 19:46:40,264 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 11:56:51,712 - mcp.server.lowlevel.server - DEBUG - Initializing server 'SAPHANA_DB'
+2025-08-13 11:56:51,712 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-08-13 11:56:51,712 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-08-13 11:56:51,728 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-08-13 11:56:51,728 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-08-13 11:56:51,728 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-08-13 11:56:51,728 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-08-13 11:56:51,728 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-08-13 11:56:56,815 - __main__ - DEBUG - Loaded 136 valid tables.
+2025-08-13 11:56:57,745 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-13 11:56:57,755 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 11:56:57,770 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-08-13 11:56:57,770 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001ED9CB476D0>
+2025-08-13 11:56:57,772 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-13 11:56:57,773 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-08-13 11:56:57,773 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 11:59:37,421 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001ED9C3BBBD0>
+2025-08-13 11:59:37,421 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-13 11:59:37,421 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-13 11:59:38,217 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 13:30:01,625 - mcp.server.lowlevel.server - DEBUG - Initializing server 'SAPHANA_DB'
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-08-13 13:30:01,627 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-08-13 13:30:06,973 - __main__ - DEBUG - Loaded 136 valid tables.
+2025-08-13 13:30:07,899 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-13 13:30:07,909 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 13:30:07,933 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-08-13 13:30:07,933 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000023DE47776D0>
+2025-08-13 13:30:07,935 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-13 13:30:07,935 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-08-13 13:30:07,939 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 13:31:43,078 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000023DE4325710>
+2025-08-13 13:31:43,078 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-13 13:31:43,078 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-13 13:31:44,036 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Initializing server 'SAPHANA_DB'
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-08-13 13:47:06,895 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-08-13 13:47:12,204 - __main__ - DEBUG - Loaded 136 valid tables.
+2025-08-13 13:47:13,212 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-13 13:47:13,230 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 13:47:13,262 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-08-13 13:47:13,262 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001EA96B178D0>
+2025-08-13 13:47:13,262 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-13 13:47:13,262 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-08-13 13:47:13,269 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 13:47:24,084 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001EA95AB5190>
+2025-08-13 13:47:24,084 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-13 13:47:24,084 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-13 13:47:25,123 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 13:51:01,672 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001EA96B178D0>
+2025-08-13 13:51:01,672 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-13 13:51:01,687 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-13 13:51:02,695 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Initializing server 'SAPHANA_DB'
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourcesRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for ReadResourceRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for PromptListRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for GetPromptRequest
+2025-08-13 14:24:58,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListResourceTemplatesRequest
+2025-08-13 14:25:03,400 - __main__ - DEBUG - Loaded 136 valid tables.
+2025-08-13 14:25:04,330 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-13 14:25:04,349 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 14:25:04,370 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-08-13 14:25:04,375 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002B6E0E4D750>
+2025-08-13 14:25:04,377 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-13 14:25:04,378 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-08-13 14:25:04,379 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 14:25:23,749 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002B6E15DA990>
+2025-08-13 14:25:23,751 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-13 14:25:23,751 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-08-13 14:25:23,751 - __main__ - DEBUG - Detected intent: unknown, params: {}
+2025-08-13 14:25:23,753 - __main__ - DEBUG - No specific intent detected, falling back to original tool: get_table_summary_original
+2025-08-13 14:25:24,613 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-08-13 15:39:08,254 - __main__ - DEBUG - Loaded 136 valid tables.
+2025-08-13 15:39:09,287 - __main__ - DEBUG - Loaded 292 valid columns.
+2025-08-13 15:50:43,942 - __main__ - DEBUG - Loaded 136 valid tables
+2025-08-13 15:50:45,082 - __main__ - DEBUG - Loaded 292 valid columns
+2025-08-13 15:50:45,082 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 15:50:45,082 - __main__ - INFO - Starting MCP server: SAPHANA_DB with transport stdio
+2025-08-13 15:50:45,082 - __main__ - DEBUG - Starting stdio loop
+2025-08-13 16:03:23,331 - __main__ - DEBUG - Loaded 136 valid tables
+2025-08-13 16:03:24,261 - __main__ - DEBUG - Loaded 292 valid columns
+2025-08-13 16:03:24,264 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:03:24,264 - __main__ - INFO - Starting MCP server: SAPHANA_DB with transport stdio
+2025-08-13 16:03:24,264 - __main__ - DEBUG - Entering stdio loop
+2025-08-13 16:03:24,268 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading()
+handle: <Handle _ProactorReadPipeTransport._loop_reading()>
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 301, in _loop_reading
+    self._read_fut = self._loop._proactor.recv_into(self._sock, self._data)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 473, in recv_into
+    self._register_with_iocp(conn)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 743, in _register_with_iocp
+    _overlapped.CreateIoCompletionPort(obj.fileno(), self._iocp, 0, 0)
+OSError: [WinError 6] The handle is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 311, in _loop_reading
+    self._fatal_error(exc, 'Fatal read error on pipe transport')
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 131, in _fatal_error
+    self._force_close(exc)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 134, in _force_close
+    if self._empty_waiter is not None and not self._empty_waiter.done():
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: '_ProactorReadPipeTransport' object has no attribute '_empty_waiter'
+2025-08-13 16:12:50,725 - __main__ - DEBUG - Loaded 136 valid tables
+2025-08-13 16:12:51,747 - __main__ - DEBUG - Loaded 292 valid columns
+2025-08-13 16:12:51,750 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:12:51,750 - __main__ - INFO - Starting MCP stdio server
+2025-08-13 16:12:51,750 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading()
+handle: <Handle _ProactorReadPipeTransport._loop_reading()>
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 301, in _loop_reading
+    self._read_fut = self._loop._proactor.recv_into(self._sock, self._data)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 473, in recv_into
+    self._register_with_iocp(conn)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 743, in _register_with_iocp
+    _overlapped.CreateIoCompletionPort(obj.fileno(), self._iocp, 0, 0)
+OSError: [WinError 6] The handle is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 311, in _loop_reading
+    self._fatal_error(exc, 'Fatal read error on pipe transport')
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 131, in _fatal_error
+    self._force_close(exc)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 134, in _force_close
+    if self._empty_waiter is not None and not self._empty_waiter.done():
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: '_ProactorReadPipeTransport' object has no attribute '_empty_waiter'
+2025-08-13 16:19:08,592 - __main__ - INFO - Connected to HANA schema '7CE65397CFF34930969986A8F384826E' on fdddfefe-e600-4b7f-b032-4f8fd05ec060.hna0.prod-us10.hanacloud.ondemand.com:443
+2025-08-13 16:19:09,498 - __main__ - DEBUG - Loaded 136 valid tables
+2025-08-13 16:19:10,426 - __main__ - DEBUG - Loaded 292 valid columns
+2025-08-13 16:19:10,430 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:19:10,430 - __main__ - INFO - Starting MCP stdio server
+2025-08-13 16:19:10,437 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading()
+handle: <Handle _ProactorReadPipeTransport._loop_reading()>
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 301, in _loop_reading
+    self._read_fut = self._loop._proactor.recv_into(self._sock, self._data)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 473, in recv_into
+    self._register_with_iocp(conn)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 743, in _register_with_iocp
+    _overlapped.CreateIoCompletionPort(obj.fileno(), self._iocp, 0, 0)
+OSError: [WinError 6] The handle is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 311, in _loop_reading
+    self._fatal_error(exc, 'Fatal read error on pipe transport')
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 131, in _fatal_error
+    self._force_close(exc)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 134, in _force_close
+    if self._empty_waiter is not None and not self._empty_waiter.done():
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: '_ProactorReadPipeTransport' object has no attribute '_empty_waiter'
+2025-08-13 16:19:40,458 - __main__ - ERROR - Timeout waiting for stdin input
+2025-08-13 16:19:40,765 - __main__ - INFO - Database connection closed
+2025-08-13 16:30:21,375 - __main__ - INFO - Connected to HANA schema '7CE65397CFF34930969986A8F384826E' on fdddfefe-e600-4b7f-b032-4f8fd05ec060.hna0.prod-us10.hanacloud.ondemand.com:443
+2025-08-13 16:30:22,257 - __main__ - DEBUG - Loaded 136 valid tables
+2025-08-13 16:30:23,139 - __main__ - DEBUG - Loaded 292 valid columns
+2025-08-13 16:30:23,139 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:30:23,139 - __main__ - INFO - Starting simplified MCP stdio server
+2025-08-13 16:30:23,144 - asyncio - ERROR - Exception in callback _ProactorReadPipeTransport._loop_reading()
+handle: <Handle _ProactorReadPipeTransport._loop_reading()>
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 301, in _loop_reading
+    self._read_fut = self._loop._proactor.recv_into(self._sock, self._data)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 473, in recv_into
+    self._register_with_iocp(conn)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 743, in _register_with_iocp
+    _overlapped.CreateIoCompletionPort(obj.fileno(), self._iocp, 0, 0)
+OSError: [WinError 6] The handle is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 311, in _loop_reading
+    self._fatal_error(exc, 'Fatal read error on pipe transport')
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 131, in _fatal_error
+    self._force_close(exc)
+  File "C:\Users\Ammu\AppData\Local\Programs\Python\Python311\Lib\asyncio\proactor_events.py", line 134, in _force_close
+    if self._empty_waiter is not None and not self._empty_waiter.done():
+       ^^^^^^^^^^^^^^^^^^
+AttributeError: '_ProactorReadPipeTransport' object has no attribute '_empty_waiter'
+2025-08-13 16:30:33,154 - __main__ - ERROR - Timeout waiting for stdin input
+2025-08-13 16:30:33,528 - __main__ - INFO - Database connection closed

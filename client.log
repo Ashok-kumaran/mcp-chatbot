@@ -1,0 +1,105 @@
+2025-08-13 16:12:40,607 - google.cloud.storage._opentelemetry_tracing - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get Storage Tracing data.
+2025-08-13 16:12:44,772 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:12:44,779 - __main__ - INFO - Connecting to server: C:\Users\Ammu\OneDrive\Desktop\MCP_Chatbot-main\s2_updated.py
+2025-08-13 16:16:52,561 - __main__ - INFO - Cleaning up client session
+2025-08-13 16:19:00,526 - google.cloud.storage._opentelemetry_tracing - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get Storage Tracing data.
+2025-08-13 16:19:03,401 - __main__ - INFO - Successfully imported GenAI Hub ChatOpenAI
+2025-08-13 16:19:04,035 - __main__ - INFO - Successfully imported MCP client modules
+2025-08-13 16:19:04,040 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:19:04,047 - __main__ - INFO - Connecting to server: C:\Users\Ammu\OneDrive\Desktop\MCP_Chatbot-main\s2_updated.py
+2025-08-13 16:19:04,047 - __main__ - DEBUG - Creating stdio transport
+2025-08-13 16:19:04,080 - __main__ - DEBUG - Initializing client session
+2025-08-13 16:19:04,080 - __main__ - DEBUG - Sending initialize request
+2025-08-13 16:19:40,829 - __main__ - ERROR - Failed to initialize session: Connection closed
+2025-08-13 16:19:40,831 - __main__ - ERROR - Main error: Connection closed
+2025-08-13 16:19:40,831 - __main__ - INFO - Cleaning up client session
+2025-08-13 16:30:10,303 - google.cloud.storage._opentelemetry_tracing - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get Storage Tracing data.
+2025-08-13 16:30:13,684 - __main__ - INFO - Successfully imported GenAI Hub ChatOpenAI
+2025-08-13 16:30:14,571 - __main__ - INFO - Successfully imported MCP client modules
+2025-08-13 16:30:14,579 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:30:14,587 - __main__ - INFO - Connecting to server: s2_updated.py
+2025-08-13 16:30:14,587 - __main__ - DEBUG - Creating stdio transport
+2025-08-13 16:30:14,620 - __main__ - DEBUG - Initializing client session
+2025-08-13 16:30:14,620 - __main__ - DEBUG - Sending initialize request
+2025-08-13 16:30:33,585 - __main__ - ERROR - Failed to initialize session: Connection closed
+2025-08-13 16:30:33,585 - __main__ - ERROR - Main error: Connection closed
+2025-08-13 16:30:33,585 - __main__ - INFO - Cleaning up client session
+2025-08-13 16:46:24,115 - google.cloud.storage._opentelemetry_tracing - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get Storage Tracing data.
+2025-08-13 16:46:26,722 - __main__ - INFO - Successfully imported GenAI Hub ChatOpenAI
+2025-08-13 16:46:27,362 - __main__ - INFO - Successfully imported MCP client modules
+2025-08-13 16:46:27,378 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-13 16:46:27,385 - __main__ - INFO - Connecting to server: s2_updated.py
+2025-08-13 16:46:27,385 - __main__ - DEBUG - Creating stdio transport
+2025-08-13 16:46:27,417 - __main__ - DEBUG - Initializing client session
+2025-08-13 16:46:27,422 - __main__ - DEBUG - Sending initialize request
+2025-08-13 16:47:03,777 - __main__ - ERROR - Failed to initialize session: Connection closed
+2025-08-13 16:47:03,777 - __main__ - ERROR - Main error: Connection closed
+2025-08-13 16:47:03,778 - __main__ - INFO - Cleaning up client session
+2025-08-21 17:40:09,860 - google.cloud.storage._opentelemetry_tracing - DEBUG - This service is instrumented using OpenTelemetry. OpenTelemetry or one of its components could not be imported; please add compatible versions of opentelemetry-api and opentelemetry-instrumentation packages in order to get Storage Tracing data.
+2025-08-21 17:40:15,494 - __main__ - INFO - Successfully imported GenAI Hub ChatOpenAI
+2025-08-21 17:40:16,561 - __main__ - INFO - Successfully imported MCP client modules
+2025-08-21 17:40:16,567 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-21 17:40:16,572 - __main__ - INFO - Connecting to server: s1.py
+2025-08-21 17:40:16,573 - __main__ - DEBUG - Creating stdio transport
+2025-08-21 17:40:16,602 - __main__ - DEBUG - Initializing client session
+2025-08-21 17:40:16,602 - __main__ - DEBUG - Sending initialize request
+2025-08-21 17:40:24,453 - __main__ - INFO - Client session initialized
+2025-08-21 17:40:24,453 - __main__ - DEBUG - Listing available tools
+2025-08-21 17:40:24,480 - __main__ - INFO - Available tools: ['get_schema', 'get_data', 'insert_data', 'delete_data', 'update_data', 'generate_report', 'upload_json_records', 'generate_and_insert_random_entry']
+2025-08-21 17:40:24,481 - __main__ - INFO - Starting chat loop
+2025-08-21 17:40:53,965 - __main__ - INFO - Processing query: generate a random data in my default table
+2025-08-21 17:40:54,236 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): gen-ai.authentication.us10.hana.ondemand.com:443
+2025-08-21 17:40:55,414 - urllib3.connectionpool - DEBUG - https://gen-ai.authentication.us10.hana.ondemand.com:443 "POST /oauth/token HTTP/1.1" 200 None
+2025-08-21 17:40:55,419 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.ai.prod.us-east-1.aws.ml.hana.ondemand.com:443
+2025-08-21 17:40:57,051 - urllib3.connectionpool - DEBUG - https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com:443 "GET /v2/lm/deployments?scenarioId=foundation-models&status=RUNNING HTTP/1.1" 200 33191
+2025-08-21 17:40:57,174 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.smith.langchain.com:443
+2025-08-21 17:40:57,278 - openai._base_client - DEBUG - Request options: {'method': 'post', 'url': '/chat/completions', 'files': None, 'idempotency_key': 'stainless-python-retry-010c1a3a-bb53-452d-b35b-e634063e68cd', 'json_data': {'messages': [{'content': '\nYou are a database assistant for table COM_SIERRA_ECOBRIDGE_COMPLIANCETRANSACTION with 292 columns, including FUELONWARDSMATERIALDOCUMENTYEAR and FUEL_TYPE.\nThe user asked: "generate a random data in my default table"\n\nAvailable tools: get_schema, get_data, insert_data, delete_data, update_data, generate_report, upload_json_records, generate_and_insert_random_entry\n- For counts or aggregations, use TOOL: run_sql PARAMS: {"query": "generate a random data in my default table"} \n- For schema info, use TOOL: get_schema PARAMS: {}\n- For sample data, use TOOL: get_data PARAMS: {"limit": 10}\n- For table summary (row count, columns), use TOOL: get_table_summary PARAMS: {}\n\nReturn ONLY:\n{\n  "TOOL": "<tool_name>",\n  "PARAMS": <json params>\n}\n', 'role': 'user'}], 'model': 'gpt-4.1-nano', 'n': 1, 'stream': False, 'temperature': 0.0}}
+2025-08-21 17:40:57,280 - openai._base_client - DEBUG - Sending HTTP Request: POST https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com/v2/inference/deployments/d647c85d1614386c/chat/completions?api-version=2024-12-01-preview
+2025-08-21 17:40:57,281 - httpcore.connection - DEBUG - connect_tcp.started host='api.ai.prod.us-east-1.aws.ml.hana.ondemand.com' port=443 local_address=None timeout=None socket_options=None
+2025-08-21 17:40:57,568 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000285726CDD10>
+2025-08-21 17:40:57,569 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002857265A9F0> server_hostname='api.ai.prod.us-east-1.aws.ml.hana.ondemand.com' timeout=None
+2025-08-21 17:40:57,573 - urllib3.connectionpool - DEBUG - https://api.smith.langchain.com:443 "GET /info HTTP/1.1" 200 773
+2025-08-21 17:40:57,588 - langsmith.client - DEBUG - Tracing control thread func compress parallel called
+2025-08-21 17:40:57,650 - langsmith.client - DEBUG - Sending multipart request with context: trace=060754be-8283-4550-9dab-60bf62508f23,id=060754be-8283-4550-9dab-60bf62508f23
+2025-08-21 17:40:57,883 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000285726CD6D0>
+2025-08-21 17:40:57,885 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-08-21 17:40:57,896 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-08-21 17:40:57,897 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-08-21 17:40:57,898 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-08-21 17:40:57,898 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-08-21 17:40:57,974 - urllib3.connectionpool - DEBUG - https://api.smith.langchain.com:443 "POST /runs/multipart HTTP/1.1" 202 34
+2025-08-21 17:40:58,693 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'date', b'Thu, 21 Aug 2025 12:10:58 GMT'), (b'content-type', b'application/json'), (b'content-length', b'1115'), (b'x-aicore-request-id', b'b53fa64f-31f5-97a7-9194-ca8761e0e9db'), (b'x-upstream-service-time', b'466')])
+2025-08-21 17:40:58,695 - httpx - INFO - HTTP Request: POST https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com/v2/inference/deployments/d647c85d1614386c/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 200 OK"
+2025-08-21 17:40:58,696 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-08-21 17:40:58,696 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-08-21 17:40:58,697 - httpcore.http11 - DEBUG - response_closed.started
+2025-08-21 17:40:58,698 - httpcore.http11 - DEBUG - response_closed.complete
+2025-08-21 17:40:58,698 - openai._base_client - DEBUG - HTTP Response: POST https://api.ai.prod.us-east-1.aws.ml.hana.ondemand.com/v2/inference/deployments/d647c85d1614386c/chat/completions?api-version=2024-12-01-preview "200 OK" Headers({'date': 'Thu, 21 Aug 2025 12:10:58 GMT', 'content-type': 'application/json', 'content-length': '1115', 'x-aicore-request-id': 'b53fa64f-31f5-97a7-9194-ca8761e0e9db', 'x-upstream-service-time': '466'})
+2025-08-21 17:40:58,699 - openai._base_client - DEBUG - request_id: None
+2025-08-21 17:40:58,734 - __main__ - DEBUG - LLM response: {
+  "TOOL": "generate_and_insert_random_entry",
+  "PARAMS": {}
+}
+2025-08-21 17:40:58,734 - __main__ - DEBUG - Parsing LLM response: {
+  "TOOL": "generate_and_insert_random_entry",
+  "PARAMS": {}
+}
+2025-08-21 17:40:58,734 - __main__ - DEBUG - Parsed JSON tool: generate_and_insert_random_entry, params: {}
+2025-08-21 17:40:58,735 - __main__ - DEBUG - Calling tool: generate_and_insert_random_entry with params: {}
+2025-08-21 17:40:58,746 - __main__ - DEBUG - Raw tool result: meta=None content=[TextContent(type='text', text='Error executing tool generate_and_insert_random_entry: 1 validation error for generate_and_insert_random_entryArguments\ntable\n  Field required [type=missing, input_value={}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.10/v/missing', annotations=None)] isError=True
+2025-08-21 17:40:58,746 - __main__ - WARNING - Tool result not JSON, returning raw: Error executing tool generate_and_insert_random_entry: 1 validation error for generate_and_insert_random_entryArguments
+table
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-08-21 17:40:59,244 - langsmith.client - DEBUG - Sending compressed multipart request with context: trace=060754be-8283-4550-9dab-60bf62508f23,id=060754be-8283-4550-9dab-60bf62508f23
+2025-08-21 17:40:59,523 - urllib3.connectionpool - DEBUG - https://api.smith.langchain.com:443 "POST /runs/multipart HTTP/1.1" 202 34
+2025-08-21 17:43:55,266 - __main__ - ERROR - Chat loop error: 
+2025-08-21 17:44:05,833 - __main__ - INFO - Cleaning up client session
+2025-08-21 17:44:06,103 - langsmith.client - DEBUG - Main thread is dead, stopping compression thread
+2025-08-21 17:44:06,103 - langsmith.client - DEBUG - Compressed traces control thread is shutting down
+2025-08-21 17:44:06,296 - langsmith.client - DEBUG - Main thread is dead, stopping tracing thread
+2025-08-21 17:44:06,296 - langsmith.client - DEBUG - Tracing control thread is shutting down
+2025-08-21 17:44:06,296 - langsmith.client - DEBUG - Closing Client.session
+2025-08-21 17:44:06,327 - langsmith.client - DEBUG - Closing Client.session
+2025-08-21 17:44:07,165 - httpcore.connection - DEBUG - close.started
+2025-08-21 17:44:07,165 - httpcore.connection - DEBUG - close.complete

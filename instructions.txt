@@ -1,0 +1,20 @@
+
+==> For uploading batch of JSON's <==
+
+> create a empty txt file.
+> paste all the available json with [], this helps to create it as a single array
+> bring that .txt file to working folder
+> command: /upload <filepath_of_txt_file>
+> now, files are uploaded successfully.
+
+======================================================================
+>>>>>  /upload <path/to/file.txt> <table name if not default table.
+----------------------------------------------------------------------
+If the user types only /upload file.txt, it assumes you're uploading to "Customer" table.
+But /upload file.txt EMTS would use the EMTS table.
+======================================================================
+
+==> for tool discovery <==
+“What can you do?”
+“List available tools”
+“Help”

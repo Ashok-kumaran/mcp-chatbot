@@ -1,0 +1,28 @@
+generative-ai-hub-sdk[all]
+fastapi 
+uvicorn 
+python-dotenv
+fastmcp
+langchain-mcp-adapters
+hdbcli
+hana-ml
+langchain
+# MCP Framework
+mcp>=1.0.0
+
+# FastMCP for easier server development  
+fastmcp>=0.1.0
+
+# SAP HANA Database Driver
+hdbcli>=2.19.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+# Async support
+asyncio-mqtt>=0.13.0
+
+# Optional: For better logging and development
+colorlog>=6.7.0
+rich>=13.0.0
